@@ -1,0 +1,16 @@
+{
+  "name": "barebones-webpack-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "ts-loader": "^2.0.3",
+    "typescript": "^2.3.2",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5"
+  },
+  "scripts": {
+    "start": "webpack-dev-server ."
+  },
+  "author": "",
+  "license": "ISC"
+}
